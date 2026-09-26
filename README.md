@@ -1,63 +1,48 @@
 <div align="center">
 
-# 👋 Hi, I'm Rishabh Jain
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Rishabh%20Jain&fontSize=42&fontAlignY=55&animation=twinkling&fontColor=ffffff&color=0:667eea,100:764ba2" width="100%"/>
 
-### Software Developer · Backend Developer · Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=667EEA&center=true&vCenter=true&width=720&height=35&lines=Software+Developer+%7C+Backend+%26+Full+Stack;Problem+Solver+%7C+Building+Reliable+Software;Java+%7C+JavaScript+%7C+Node.js+%7C+Spring+Boot" />
 
-**Building reliable systems. Solving real problems. Writing better code every day.**
+<br>
 
-<p>
-  <a href="https://github.com/rishabhjain2026">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rishabh-jain-b64347276/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rishabh.tech26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/rishabhjain2026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rishabh-jain-b64347276/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rishabh.tech26@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## ⚡ Who I Am
+## 👨‍💻 About Me
 
-I'm a **Software Developer** focused on building backend and full-stack applications with a strong interest in **problem solving, system design, APIs, databases, and scalable software**.
+I'm a **Software Developer** focused on building practical, reliable, and maintainable software.
 
-I enjoy taking a requirement and turning it into a complete technical solution:
+I enjoy working across the stack — from **frontend interfaces and backend APIs to databases, authentication, integrations, and deployment**.
 
 ```text
-Requirement
-     ↓
-Understand the Problem
-     ↓
-Design the Solution
-     ↓
-Build the Architecture
-     ↓
-Develop APIs & Business Logic
-     ↓
-Integrate Database & Frontend
-     ↓
-Test & Debug
-     ↓
-Optimize
-     ↓
-Deploy
+Understand → Analyze → Design → Build → Test → Debug → Optimize → Ship 🚀
 ```
 
-I care about more than just making code work.
+I don't just want code that works.
 
-**I care about why it works, how it can fail, and how it can be improved.**
+**I want to understand why it works, how it can fail, and how it can be improved.**
 
 ---
 
-# 🧠 Engineering Mindset
+## 🧠 Problem Solving
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🧩 Problem Solving
@@ -65,17 +50,17 @@ I care about more than just making code work.
 * Data Structures & Algorithms
 * Logical Thinking
 * Requirement Analysis
+* Problem Decomposition
 * Edge Case Handling
 * Debugging
 * Root Cause Analysis
-* Optimization
-* Clean Problem Decomposition
+* Performance Optimization
 
 </td>
 
 <td width="50%">
 
-### 🏗️ Software Engineering
+### 🏗️ Engineering
 
 * REST API Design
 * Backend Architecture
@@ -84,9 +69,10 @@ I care about more than just making code work.
 * Authorization
 * API Integration
 * Error Handling
-* Maintainable Code
+* Clean Code
 
 </td>
+
 </tr>
 </table>
 
@@ -94,227 +80,242 @@ I care about more than just making code work.
 
 # 🛠️ Technology Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,cpp,html,css&perline=8"/>
 </p>
 
-**Java · JavaScript · HTML5 · CSS3**
+**Java · JavaScript · TypeScript · Python · C · C++ · HTML5 · CSS3**
 
 ---
 
-### ⚛️ Frontend Development
+## 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,vue,redux,bootstrap,tailwind,sass&perline=8"/>
 </p>
 
-**React · Tailwind CSS · Responsive UI · Component Architecture**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,pug,babel&perline=8"/>
+</p>
+
+**React · React Native · Next.js · Vue.js · Redux · Bootstrap · Tailwind CSS · Sass · Pug · Babel**
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&perline=8"/>
 </p>
 
-**Node.js · Express.js · Spring Boot · REST APIs · Middleware · Authentication**
+**Node.js · Express.js · Spring Boot · Flask · REST APIs · Middleware · Authentication · Authorization**
 
 ---
 
-### 🗄️ Databases & Data Layer
+## 🗄️ Databases & ORM
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma&perline=8"/>
 </p>
 
-**MongoDB · PostgreSQL · MySQL · Prisma · SQL · JPA · Hibernate**
+**MongoDB · MySQL · PostgreSQL · Prisma · SQL · JPA · Hibernate**
 
 ---
 
-### 🔐 Security & Authentication
+## ☁️ Cloud & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,firebase,heroku,nginx,linux&perline=8"/>
 </p>
+
+**AWS · Firebase · Heroku · Nginx · Linux**
+
+---
+
+## 📊 Data & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python&perline=8"/>
+</p>
+
+**Pandas · Scikit-learn · Seaborn · Chart.js**
+
+---
+
+## 🔧 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,jira&perline=8"/>
+</p>
+
+**Git · GitHub · VS Code · Postman · npm · Jira**
+
+---
+
+## 🤖 Hardware & Other
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino&perline=8"/>
+</p>
+
+**Arduino**
+
+---
+
+# 🧱 Full Technology Overview
+
+| Category                  | Technologies                                      |
+| :------------------------ | :------------------------------------------------ |
+| 💻 **Languages**          | Java · JavaScript · TypeScript · Python · C · C++ |
+| 🎨 **Frontend**           | React · React Native · Next.js · Vue.js           |
+| 🎨 **UI / Styling**       | HTML5 · CSS3 · Bootstrap · Tailwind CSS · Sass    |
+| 🔄 **State Management**   | Redux                                             |
+| ⚙️ **Backend**            | Node.js · Express.js · Spring Boot · Flask        |
+| 🧩 **Templating / Build** | Pug · Babel                                       |
+| 🗄️ **Databases**         | MongoDB · MySQL · PostgreSQL                      |
+| 🔗 **ORM / Persistence**  | Prisma · JPA · Hibernate                          |
+| ☁️ **Cloud**              | AWS · Firebase · Heroku                           |
+| 🖥️ **Infrastructure**    | Linux · Nginx                                     |
+| 📊 **Data / ML**          | Pandas · Scikit-learn · Seaborn · Chart.js        |
+| 🔧 **Tools**              | Git · GitHub · VS Code · Postman · Jira · npm     |
+| 🤖 **Hardware**           | Arduino                                           |
+
+---
+
+# 🧠 How I Approach Problems
 
 ```text
-JWT Authentication
-Role-Based Access Control
-Password Hashing
-Protected Routes
-Authorization
-Middleware Security
-API Validation
+                    ┌─────────────────┐
+                    │     PROBLEM     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   UNDERSTAND    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     ANALYZE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     DESIGN      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │      BUILD      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │      TEST       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     DEBUG       │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    OPTIMIZE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │     SHIP 🚀     │
+                    └─────────────────┘
 ```
 
----
-
-### 🔌 API & Integration
-
-```text
-REST APIs
-Third-Party API Integration
-JSON
-HTTP
-API Authentication
-Request Validation
-Response Handling
-Error Handling
-Postman Testing
-```
+> **Don't just make it work. Understand why it works.**
 
 ---
 
-### 🧰 Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jira,npm" />
-</p>
-
-**Git · GitHub · Postman · VS Code · Jira · npm**
-
----
-
-### 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-</p>
-
-**HTML · CSS · JavaScript · React · Node.js**
-
----
-
-# 🧱 What I Build
+# 🔐 Development Principles
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### ⚙️ Backend
+<td align="center" width="20%">
 
-REST APIs
-Business Logic
-Authentication
-Authorization
+### 🧠
 
-</td>
+**THINK**
 
-<td align="center" width="25%">
-
-### 🗄️ Data
-
-Database Design
-CRUD Operations
-ORM
-Query Optimization
+Understand the problem.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🔗 Integration
+### 🏗️
 
-API Integration
-External Services
-Data Processing
-Validation
+**DESIGN**
+
+Choose the right structure.
+
+</td>
+
+<td align="center" width="20%">
+
+### 💻
+
+**BUILD**
+
+Write clean code.
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🚀 Quality
+### 🧪
 
-Testing
-Debugging
-Optimization
-Clean Code
+**TEST**
+
+Handle edge cases.
 
 </td>
+
+<td align="center" width="20%">
+
+### 🚀
+
+**IMPROVE**
+
+Optimize continuously.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🔥 My Development Philosophy
-
-```text
-┌──────────────────────────────────────────┐
-│              THINK FIRST                 │
-├──────────────────────────────────────────┤
-│ Understand the requirement               │
-│ Understand the data                      │
-│ Understand the business rules            │
-├──────────────────────────────────────────┤
-│              BUILD RIGHT                 │
-├──────────────────────────────────────────┤
-│ Keep architecture simple                 │
-│ Write maintainable code                  │
-│ Handle failures and edge cases           │
-├──────────────────────────────────────────┤
-│              IMPROVE                     │
-├──────────────────────────────────────────┤
-│ Test → Debug → Optimize → Refactor       │
-└──────────────────────────────────────────┘
-```
-
-> **Code is only part of software development.
-> Understanding the problem is where good software begins.**
-
----
-
 # 📚 Core Computer Science
 
-<p align="center">
+<p align="left">
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-667eea?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📈 Developer Growth
+# 📈 Currently Improving
 
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Repeat
-```
-
-I'm continuously improving my understanding of:
-
-* ☕ Advanced Java
-* 🌱 Spring Boot
+* ☕ Java & Spring Boot
 * ⚙️ Backend Architecture
-* 🗄️ Database Design & Optimization
-* 🧠 Data Structures & Algorithms
 * 🏗️ System Design
-* 🌐 Scalable APIs
-* 🔐 Secure Application Development
-* 🚀 Production-Ready Development
+* 🗄️ Database Optimization
+* 🧠 Data Structures & Algorithms
+* 🔐 Secure API Development
+* 🚀 Scalable Applications
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -328,76 +329,44 @@ I'm continuously improving my understanding of:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjain2026&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjain2026&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💻 Languages & Technologies
-
-<div align="center">
-
-| Category              | Technologies                        |
-| --------------------- | ----------------------------------- |
-| **Languages**         | Java · JavaScript · HTML · CSS      |
-| **Frontend**          | React · Tailwind CSS                |
-| **Backend**           | Node.js · Express.js · Spring Boot  |
-| **Database**          | PostgreSQL · MongoDB · MySQL        |
-| **ORM / Persistence** | Prisma · JPA · Hibernate            |
-| **Security**          | JWT · RBAC · Password Hashing       |
-| **API**               | REST · JSON · HTTP · Postman        |
-| **Tools**             | Git · GitHub · VS Code · Jira · npm |
-| **Concepts**          | DSA · OOP · DBMS · OS · Networking  |
-
-</div>
-
----
-
-# 🎯 What I'm Working Toward
-
-**Becoming the kind of developer who can take an ambiguous problem, design the solution, build it, debug it, and make it production-ready.**
+# 🌱 Developer Growth
 
 ```text
-                    ┌──────────────┐
-                    │    PROBLEM   │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   ANALYZE    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    DESIGN    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │     BUILD    │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │     TEST     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   OPTIMIZE   │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    SHIP 🚀   │
-                    └──────────────┘
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+REPEAT
 ```
+
+Every bug is a lesson.
+
+Every difficult problem is an opportunity to understand the system better.
+
+Every improvement makes the next solution better.
 
 ---
 
 <div align="center">
 
-## 🚀 Build. Solve. Improve.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:667eea,100:764ba2" width="100%"/>
 
-### Turning problems into software, one commit at a time.
+### 🚀 Build • Solve • Improve
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rishabhjain2026&style=for-the-badge&color=blue" />
+**Turning problems into software, one commit at a time.**
 
 </div>
