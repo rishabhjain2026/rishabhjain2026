@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi 👋, I'm Rishabh Jain
 
-<!--
-**rishabhjain2026/rishabhjain2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Java | Node.js | React
 
-Here are some ideas to get you started:
+I build practical web applications and backend systems
+with a focus on clean APIs, databases, and real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+• B.Tech Computer Science & Engineering — 2026
+• Software Developer
+• Backend & Full-Stack Development
+• Interested in scalable web applications
+
+💻 Tech Stack
+
+Java | JavaScript | Node.js | Express | React
+PostgreSQL | MongoDB | Prisma | Git | GitHub
+
+🚀 Featured Projects
+
+SafeReach
+Context-aware journey safety and trusted-contact communication platform.
+
+Hospital Management System
+Backend-focused hospital management application using Spring Boot,
+JPA and PostgreSQL.
+
+IT Staff
+...
+
+📫 Connect With Me
+
+LinkedIn | Email | GitHub
